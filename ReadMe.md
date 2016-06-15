@@ -1,6 +1,10 @@
 #Stanford Wrigley Field Program in Hawaii Spatial Analysis Module
 
-A Three Day series of workshops/exercises to introduce the basics of spatial data exploration, collection and analysis in a field setting.
+"Everything is related. Near things are more related than distant things." Waldo Tobler's First Law of Geography
+
+Everything exists or occurs somewhere and that 'somewhere' has important implications for understanding the world and it's processes. Many research questions have an explicit 
+
+A series of workshops/exercises to introduce the basics of spatial data exploration, collection and analysis in a field setting. The objective is to build a foundational understanding of spatial data collection, management and analysis methods that will allow participants to define, investigate and answer the spatial aspects of their research questions. 
 
 ##Proposed Modules
 ##Day 1
@@ -31,13 +35,15 @@ A series of demonstrations and exercises designed to introduce some of the most 
 * Summary Statistics
 * Basic point pattern analysis
 * Spatial central tendency
+* Building basic spatial analysis models
 * Overlay analysis
 * Spatial measurement
 * Calculations in the Attribute Table
 * Proximity
 * K Nearest Neighbor analysis
 * Geocoding and conversion of tabular data to spatial data
-* Relation database models for spatial analysis  
+* Relation database models for spatial analysis 
+* Spatial Data management 
 
 ##Day 2
 ###Module 3: Introduction to Raster and Satellite Remote Sensing (3 hours)
@@ -50,6 +56,7 @@ A series of demos and exercises designed to introduce basic concepts of raster a
     * Pixel operations
     * Neighborhood operations
     * Zonal operations
+* Multispectral imagery data
 * Basics of the electromagnetic spectrum
 * Spectral curves
 * Visualizing Band Combinations for Geologic Mapping
@@ -60,8 +67,6 @@ A series of demos and exercises designed to introduce basic concepts of raster a
 ###Module 4: Field Data Collection for Spatial Analysis and Remote Sensing (3 hours)
 A series of demos and exercises designed to introduce basic concepts
 ####Topics:
-
-
 * Global vs Local spatial reference
 * Overview of the Global Positioning System (GPS)
 * Overview of Total Station Mapping
