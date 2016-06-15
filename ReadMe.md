@@ -6,7 +6,7 @@ Everything exists or occurs somewhere and that 'somewhere' has important implica
 
 The Stanford Geospatial Center proposes to add a series of modules/exercises to introduce the basics of spatial data exploration, collection and analysis in a field setting. The objective is to build foundational understanding of spatial data collection, management and analysis methods and build the spatial data literacy skills necessary to leverage 'where' in their research. 
 
-Exercises will make use of existing Wrigley field sites, including those currently used in the the **Volcanic Flows and Succession Studies** module and the **Experimental Traditional Dry-land Agriculture**, complementing those modules with digital methods for reconnaissance, data collection, analysis and management. 
+Exercises will make use of existing Wrigley field sites, including those currently used in the the **Volcanic Flows and Succession Studies** module and the **Experimental Traditional Dry-land Agriculture**, complementing those modules with digital methods for reconnaissance, data collection, analysis and management. Exercises will include methods for delineating geologic features using multispectral imagery, use of GIS for measurement and statistical summary, creation of landcover data, methods of ground-truthing and vector/raster data extraction.
 
 ##Proposed Modules
 ##Day 1
