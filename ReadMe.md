@@ -81,8 +81,11 @@ A series of demos and exercises designed to introduce basic concepts and tools f
 * Geographic Coordinate Systems for data collection and archiving
 * Using Avenza PDF Maps for solo or small group data collection management
 * Management of multi-user data collection projects
-* Archiving of data
-##Day 3
+* Archiving of data  
+
+
+
+##Day 3  
 ###Module 5: State of Mapping Overview
 A demonstration based discussion of the current state-of-the-art in geospatial data collection management, analysis, visualization and archiving. 
 ####Topics:
