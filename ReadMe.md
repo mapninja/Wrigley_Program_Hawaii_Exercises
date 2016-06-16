@@ -1,5 +1,7 @@
 #Stanford Wrigley Field Program in Hawaii Spatial Analysis Module
 
+![Classified image](https://github.com/mapninja/Wrigley_Program_Hawaii_Exercises/blob/master/images/15wulp.gif?raw=true)
+
 "Everything is related. Near things are more related than distant things." - Waldo Tobler's First Law of Geography
 
 Everything exists or occurs somewhere and that 'somewhere' has important implications for understanding the world and it's processes. Many research questions have an explicitly spatial component (i.e. "X tends to happen more often when Y is near a Z."), but students and researchers are often not familiar enough with spatial data formats, fundamentals and methods to leverage the spatial components of their research.
